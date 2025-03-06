@@ -1,7 +1,3 @@
-Here’s the improved version with clearer wording, consistency, and minor fixes:  
-
----
-
 # AutoGen Script  
 
 ## Overview  
